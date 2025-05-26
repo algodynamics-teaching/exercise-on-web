@@ -11,11 +11,11 @@ jupyterlite-pyodide-kernel==0.5.0
 jupyterlite-javascript-kernel==0.3.0
 
 # Language support (optional)
-jupyterlab-language-pack-fr-FR
-jupyterlab-language-pack-zh-CN
+# jupyterlab-language-pack-fr-FR
+# jupyterlab-language-pack-zh-CN
 
 # P5 kernel (optional)
-jupyterlite-p5-kernel==0.1.0
+# jupyterlite-p5-kernel==0.1.0
 
 # JupyterLab: Fasta file renderer (optional)
 jupyterlab-fasta>=3.3.0,<4
@@ -41,5 +41,5 @@ ipycanvas>=0.9.1
 ipyleaflet
 
 # Python: plotting libraries (optional)
-plotly>=5,<6
-bqplot
+# plotly>=5,<6
+# bqplot
