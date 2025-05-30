@@ -1,4 +1,4 @@
-from mapcode.main import mapcode
+from mapcode.mapcode import mapcode
 from collections import deque
 from functools import lru_cache
 import copy
